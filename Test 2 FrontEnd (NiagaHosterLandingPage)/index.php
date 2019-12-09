@@ -6,11 +6,11 @@
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">   
     <link rel="shortcut icon" href="images/favicon.ico">
-    <title>Web Hosting Indonesia | WordPress Gratis SSL - Niagahoster</title>
+    <title>Web Hosting Indonesia Unlimited dan Terbaik - Niagahoster</title>
     <link href="./style/css/bootstrap.css" rel="stylesheet">
     <link href="./style/css/costum.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Nunito+Sans&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- tambahan  -->
@@ -97,6 +97,8 @@
         <a class="navbar-brand" href="#"><img src="images/niagahosterlogo.png" alt="Niagahoster">
         </a>
       </div>
+      
+      
       <div id="navbar3" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#">Hosting</a></li>
@@ -205,7 +207,7 @@
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="images/composer.png" width="73px">
+        <img src="images/composer.png" width="136px">
         <br>
         <p>PHP Composer</p>
       </div>
@@ -615,7 +617,7 @@
     <div class="col-sm-12">
       <h3 style="color: #4d4d4d !important;">Modul lengkap untuk menjalankan Aplikasi PHP Anda</h3><br>
 
-    <div class="col-md-3">
+    <div class="col-md-3" align="left">
       
         <table class="table">
                  
@@ -715,32 +717,98 @@
    </div>
      
 
-      <div class="col-md-3">
+      <div class="col-md-3" align="left">
       
         <table class="table">
                  
                   <tbody>
-                    <tr>
+                  <tr>
                       
-                      <td>http, huffman, idn, igbinary</td>
+                      <td>http</td>
                       
                     </tr>      
-                    
-                    <tr class="info">
                       
-                      <td>imagick, imap, include, inotify</td>
+                    <tr>
+                      
+                      <td>huffman</td>
                       
                     </tr>
 
                     <tr>
                       
-                      <td>interbase, intl , ioncube_loader,bloomy</td>
+                      <td>idn</td>
                       
                     </tr>  
 
-                     <tr class="info">
+                     <tr>
                       
-                      <td>jsmin,json,Ldap</td>
+                      <td>igbinary</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>imagick</td>
+                      
+                    </tr>  
+
+                    <tr>
+                      
+                      <td>imap</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>inclued</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>inotify</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>interbase</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>intl</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>ioncube_loader</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>ioncube_loader_4</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>jsmin</td>
+                      
+                    </tr>
+
+                    <tr> 
+                      
+                      <td>json</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>ldap</td>
                       
                     </tr>  
 
@@ -748,32 +816,98 @@
                 </table>
    </div>
 
-    <div class="col-md-3">
+    <div class="col-md-3" align="left"> 
       
         <table class="table">
                  
                   <tbody>
-                    <tr>
+                  <tr>
                       
-                      <td>nd_pdo_mysql, oauth, oci8, odbc</td>
+                      <td>nd_pdo_mysql</td>
                       
                     </tr>      
-                    
-                    <tr class="info">
                       
-                      <td>opcache, pdf, pdo, pdo_dblib</td>
+                    <tr>
+                      
+                      <td>oauth</td>
                       
                     </tr>
 
                     <tr>
                       
-                      <td>pdo_firebird, pdo_mysql, pdo_odbc , pdo_pgsql</td>
+                      <td>oci8</td>
                       
                     </tr>  
 
-                    <tr class="info">
+                     <tr>
                       
-                      <td>pdo_sqlite, pgsql, phalcon</td>
+                      <td>odbc</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>opcache</td>
+                      
+                    </tr>  
+
+                    <tr>
+                      
+                      <td>pdf</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo_dblib</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo_firebird</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo_mysql</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo_odbc</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo_pgsql</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>pdo_sqlite</td>
+                      
+                    </tr>
+
+                    <tr> 
+                      
+                      <td>pgsql</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>phalcon</td>
                       
                     </tr>
 
@@ -781,32 +915,98 @@
                 </table>
    </div>
 
-    <div class="col-md-3">
+    <div class="col-md-3" align="left">
       
         <table class="table">
                  
                   <tbody>
-                    <tr>
+                  <tr>
                       
-                      <td>stats , stem, stomp , suhosin</td>
+                      <td>stats</td>
                       
                     </tr>      
-                    
-                    <tr class="info">
                       
-                      <td>sybase_ct, sysvmsg, sysvsem, sysvshm</td>
+                    <tr>
+                      
+                      <td>stem</td>
                       
                     </tr>
 
                     <tr>
                       
-                      <td> timezonedb, trader , translit</td>
+                      <td>stomp</td>
                       
                     </tr>  
 
-                    <tr class="info">
+                     <tr>
                       
-                      <td>tidy, uri_template, uuid</td>
+                      <td>suhosin</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>sybase_ct</td>
+                      
+                    </tr>  
+
+                    <tr>
+                      
+                      <td>sysvmsg</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>sysvsem</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>sysvshm</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>tidy</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>timezonedb</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>trader</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>translit</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>uploadprogress</td>
+                      
+                    </tr>
+
+                    <tr> 
+                      
+                      <td>uri_template</td>
+                      
+                    </tr>
+
+                    <tr>
+                      
+                      <td>uuid</td>
                       
                     </tr>
 
@@ -835,7 +1035,7 @@
 
     <div class="col-sm-3 col-md-6">
 
-      <p align="justify" >SuperMicro <b>Intel Xeon 24-Cores</b>server dengan RAM <b>128 GB</b> dan teknologi <b>LVE CloudLinux</b> untuk stabilitas server anda. Dilengkapi dengan <b>SSD</b> untuk kecepatan <b>Mysql</b> dan caching. Apache load balancer berbasis LiteSpeed Technologi, <b>CageFS</b> security, <b>Raid-10</b> proctection dan auto backup untuk keamanan website PHP anda.</p>
+      <p align="justify" >SuperMicro <b>Intel Xeon 24-Cores</b>server dengan RAM <b>128 GB</b> dan teknologi <b>LVE CloudLinux</b> untuk stabilitas server Anda. Dilengkapi dengan <b>SSD</b> untuk kecepatan <b>Mysql</b> dan caching. Apache load balancer berbasis LiteSpeed Technologies, <b>CageFS</b> security, <b>Raid-10</b> protection dan auto backup untuk keamanan website PHP anda.</p>
      
     <div class="text-left"><br>
 
